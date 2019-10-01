@@ -1,17 +1,19 @@
+#!/usr/bin/python3
 """
-Blessing Ngorima NGRBLE001 
-	&
-Chris Kateera KTRKUD001
-
-EEE3096S Environment Logger Blynk Project
+NGRBLE001   -	Blessing Ngorima 	
+KTRKUD001   -	Chris Kateera 	
+EEE3096S Environment Logger Blynk Project A
 Date: 30 September 2019
-An environment Logger using the Blynk applicaton.
+Blynk applicaton
 """
+
 
 
 # import Relevant Librares
-from time import time
+
+import RPi.GPIO as GPIO
 import blynklib
+from time import time
 
 BLYNK_AUTH = 'iPK7gVGF1PsbmT0de_TKOmmSUsIkSB50'
 blynk = blynklib.Blynk(BLYNK_AUTH)
@@ -19,15 +21,12 @@ blynk = blynklib.Blynk(BLYNK_AUTH)
 
 def init_GPIO():
     b=3
-    print("hi")
-    while 1:
-        blynk.run()
+    
 
 # ADC - Temperature, Potentiometer (Humidity), Light Sensor
 
 # Buttons: interrupts, debouncing
 #Start/Stop, Dismiss Alarm, Reset SYStime , Change reading interval
-
 
 #Alarm Output - buzzer
 
@@ -37,7 +36,9 @@ def init_GPIO():
 # Main function
 def main():
     a=4
-    init_GPIO()
+    print("hi")
+    while 1:
+        blynk.run()
     
 # Only run the functions if this module is run
 if __name__ == "__main__":
