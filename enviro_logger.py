@@ -1,5 +1,8 @@
 """
-Blessing Ngorima & Chris Kateera
+Blessing Ngorima NGRBLE001 
+	&
+Chris Kateera KTRKUD001
+
 EEE3096S Environment Logger Blynk Project
 Date: 30 September 2019
 An environment Logger using the Blynk applicaton.
