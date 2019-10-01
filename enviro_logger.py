@@ -11,13 +11,17 @@ An environment Logger using the Blynk applicaton.
 
 # import Relevant Librares
 from time import time
+import blynklib
 
+BLYNK_AUTH = 'iPK7gVGF1PsbmT0de_TKOmmSUsIkSB50'
+blynk = blynklib.Blynk(BLYNK_AUTH)
 # Define values.
 
 def init_GPIO():
     b=3
-
-
+    print("hi")
+    while 1:
+        blynk.run()
 
 # ADC - Temperature, Potentiometer (Humidity), Light Sensor
 
@@ -29,15 +33,11 @@ def init_GPIO():
 
 #RTC- via kernel drivers.
 
-def main():
-    b=3
-
-
 
 # Main function
 def main():
     a=4
-    
+    init_GPIO()
     
 # Only run the functions if this module is run
 if __name__ == "__main__":
