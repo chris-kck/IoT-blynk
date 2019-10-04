@@ -89,7 +89,17 @@ def init_GPIO():
     
 
 # ADC - Temperature, Potentiometer (Humidity), Light Sensor
-
+# Software SPI configuration:
+CLK  = 11
+MISO = 9 #these are GPIOs
+MOSI = 10
+CS   = 26
+mcp = Adafruit_MCP3008.MCP3008(clk=CLK, cs=CS, miso=MISO, mosi=MOSI)
+ 
+# Hardware SPI configuration:
+# SPI_PORT   = 0
+# SPI_DEVICE = 0
+# mcp = Adafruit_MCP3008.MCP3008(spi=SPI.SpiDev(SPI_PORT, SPI_DEVICE))
 # Buttons: interrupts, debouncing
 #Start/Stop, Dismiss Alarm, Reset SYStime , Change reading interval
 
