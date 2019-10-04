@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python2.7
 """
 NGRBLE001   -	Blessing Ngorima 	
 KTRKUD001   -	Chris Kateera 	
@@ -14,6 +14,7 @@ Blynk applicaton
 import RPi.GPIO as GPIO
 import blynklib
 import subprocess
+import Adafruit_MCP3008
 from time import time
 
 BLYNK_AUTH = 'iPK7gVGF1PsbmT0de_TKOmmSUsIkSB50'
@@ -23,8 +24,7 @@ ALLOWED_COMMANDS_LIST = ['ls', 'lsusb', 'ip a', 'ip abc']
 
 @blynk.handle_event('write V6')
 def write_handler(pin, values):
-    for i in range(50):
-        blynk.virtual_write(pin,i)
+    blynk.virtual_write(pin,"Welcome to the EnviroLogger \n")
 
     header = ''
     result = ''
@@ -73,7 +73,7 @@ def write_handler(pin, values):
 
 # Define values.
 
-btns = {'sstop_btn':3,'dismiss_btn':5, 'reset_time_btn':6, 'interval_btn':8} #dict of output pins
+btns = {'sstop_btn':29,'dismiss_btn':31, 'reset_time_btn':33, 'interval_btn':37} #dict of output pins
 
 def init_GPIO():
     
@@ -90,16 +90,6 @@ def init_GPIO():
 
 # ADC - Temperature, Potentiometer (Humidity), Light Sensor
 # Software SPI configuration:
-CLK  = 11
-MISO = 9 #these are GPIOs
-MOSI = 10
-CS   = 26
-mcp = Adafruit_MCP3008.MCP3008(clk=CLK, cs=CS, miso=MISO, mosi=MOSI)
- 
-# Hardware SPI configuration:
-# SPI_PORT   = 0
-# SPI_DEVICE = 0
-# mcp = Adafruit_MCP3008.MCP3008(spi=SPI.SpiDev(SPI_PORT, SPI_DEVICE))
 # Buttons: interrupts, debouncing
 #Start/Stop, Dismiss Alarm, Reset SYStime , Change reading interval
 
