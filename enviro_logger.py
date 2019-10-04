@@ -14,7 +14,6 @@ Blynk applicaton
 import RPi.GPIO as GPIO
 import blynklib
 import subprocess
-import Adafruit_MCP3008
 from time import time
 
 BLYNK_AUTH = 'iPK7gVGF1PsbmT0de_TKOmmSUsIkSB50'
