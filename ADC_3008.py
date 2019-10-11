@@ -25,7 +25,7 @@ def Temp(data):
   temp = round(temp)
   return temp
 
-while True:
+while 0:
   #c= input("Enter CH\n")
   #temp_output = analogInput(c) # Reading from CH0
   #raw_data = analogueInput()

@@ -10,12 +10,13 @@ Blynk applicaton
 
 
 # import Relevant Librares
-
+import xtime, ADC_3008.py
 import RPi.GPIO as GPIO
 import blynklib
 import subprocess
 from time import time
 
+print(xtime.rtc())
 BLYNK_AUTH = 'iPK7gVGF1PsbmT0de_TKOmmSUsIkSB50'
 blynk = blynklib.Blynk(BLYNK_AUTH)
 
