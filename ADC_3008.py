@@ -26,8 +26,10 @@ def Temp(data):
   return temp
 
 while True:
-  temp_output = analogInput(0) # Reading from CH0
-  temp_volts = Volts(temp_output)
-  temp_level = Temp(temp_output)
-  print("Temp : {} ({}V Data:{}) ".format(temp_level,temp_volts,temp_output))
+  #c= input("Enter CH\n")
+  #temp_output = analogInput(c) # Reading from CH0
+  #raw_data = analogueInput()
+  humidity_volts = Volts(analogInput(0))
+  temp_degrees = Temp(analogInput(1))
+  print("CH0 Volts:{} \nCH1 Temp: {}".format(humidity_volts, temp_degrees))
   sleep(1)
