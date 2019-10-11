@@ -72,7 +72,7 @@ def write_handler(pin, values):
 
 # Define values.
 
-btns = {'sstop_btn':29,'dismiss_btn':31, 'reset_time_btn':33, 'interval_btn':37} #dict of output pins
+btns = {'sstop_btn':31,'dismiss_btn':33, 'reset_time_btn':35, 'interval_btn':37} #dict of output pins
 
 def init_GPIO():
     

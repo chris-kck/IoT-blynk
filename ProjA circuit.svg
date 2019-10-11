@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Circuit Diagram, cdlibrary.dll 1.0.0.0 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="1040" height="640" xmlns="http://www.w3.org/2000/svg">
+	<rect x="730" y="70" width="100" height="80" style="fill-opacity:0;stroke:rgba(255, 165, 0, 255);stroke-width:2" />
+	<line x1="720" y1="80" x2="730" y2="80" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="720" y1="100" x2="730" y2="100" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="830" y1="80" x2="840" y2="80" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="830" y1="100" x2="840" y2="100" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="734" y="80" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em">X1</text>
+	<text x="734" y="100" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em">X2</text>
+	<text x="826" y="80" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">Vcc</text>
+	<text x="826" y="100" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">MFP</text>
+	<line x1="720" y1="120" x2="730" y2="120" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="830" y1="120" x2="840" y2="120" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="734" y="120" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em">NC</text>
+	<text x="826" y="120" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">SCL</text>
+	<line x1="720" y1="140" x2="730" y2="140" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="830" y1="140" x2="840" y2="140" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="734" y="140" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em">Vss</text>
+	<text x="826" y="140" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">SDA</text>
+	<line x1="520" y1="620" x2="860" y2="620" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="860" y1="430" x2="860" y2="620" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="840" y1="430" x2="860" y2="430" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="520" y1="490" x2="520" y2="620" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="490" x2="520" y2="490" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="290" y1="360" x2="290" y2="370" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="150" y1="410" x2="340" y2="410" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="150" y1="430" x2="150" y2="590" style="stroke:rgba(34, 139, 34, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="150" y1="330" x2="150" y2="390" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="200" y1="390" x2="340" y2="390" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="200" y1="510" x2="200" y2="590" style="stroke:rgba(34, 139, 34, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="200" y1="390" x2="200" y2="460" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="40" y="380" width="100" height="60" style="fill-opacity:0;stroke:rgba(255, 165, 0, 255);stroke-width:2" />
+	<line x1="30" y1="390" x2="40" y2="390" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="30" y1="410" x2="40" y2="410" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="140" y1="390" x2="150" y2="390" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="140" y1="410" x2="150" y2="410" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="44" y="390" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em"></text>
+	<text x="44" y="410" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em"></text>
+	<text x="136" y="390" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">Vdd 3.3</text>
+	<text x="136" y="410" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">Vout</text>
+	<line x1="30" y1="430" x2="40" y2="430" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="140" y1="430" x2="150" y2="430" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="44" y="430" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em"></text>
+	<text x="136" y="430" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">Vss</text>
+	<line x1="590" y1="570" x2="710" y2="570" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="570" x2="560" y2="570" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="590" y1="510" x2="710" y2="510" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="550" x2="560" y2="550" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="530" x2="560" y2="530" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="590" y1="530" x2="710" y2="530" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="590" y1="550" x2="710" y2="550" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="840" y1="310" x2="910" y2="310" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="840" y1="250" x2="910" y2="250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="910" y1="250" x2="910" y2="260" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="910" y1="300" x2="910" y2="310" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="910" y1="260" x2="910" y2="266" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="910" y1="266" x2="916" y2="266" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="910" y1="294" x2="910" y2="300" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="910" y1="294" x2="916" y2="294" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<path d="M 910,280 A 20,20 90 0 1 930,260 L 930,300 A 20,20 90 0 1 910,280" style="fill-opacity:0;fill:rgba(255, 165, 0, 255);stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="260" y1="380" x2="260" y2="590" style="stroke:rgba(34, 139, 34, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="200" y1="330" x2="200" y2="340" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="200" y1="380" x2="200" y2="390" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="192" y="340" width="16" height="40" style="fill-opacity:0;stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="186" y="360" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">4.7 kΩ</text>
+	<line x1="200" y1="450" x2="200" y2="460" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="200" y1="500" x2="200" y2="510" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="192" y="460" width="16" height="40" style="fill-opacity:0;stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="200" cy="480" rx="26" ry="26" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<path d="M 200,460 M 174,444 L 182,452 M 183,453 L 181,449 L 179,451 L 183,453 L 181,449" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<path d="M 200,460 M 168,450 L 176,458 M 177,459 L 175,455 L 173,457 L 177,459 L 175,455" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="290" y1="370" x2="340" y2="370" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="260" y1="330" x2="260" y2="340" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="260" y1="380" x2="260" y2="380" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="252" y="340" width="16" height="40" style="fill-opacity:0;stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="246" y="360" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">4.7 kΩ</text>
+	<path d="M 260,340 M 276,354 L 270,360 L 276,366 M 271,360 L 289,360" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="610" y1="390" x2="610" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="470" x2="610" y2="470" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="330" x2="540" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="620" y1="410" x2="620" y2="450" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="490" y1="450" x2="620" y2="450" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="450" x2="490" y2="450" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="620" y1="410" x2="710" y2="410" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="470" y1="410" x2="540" y2="410" style="stroke:rgba(34, 139, 34, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="510" x2="540" y2="510" style="stroke:rgba(34, 139, 34, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="410" x2="470" y2="410" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="330" x2="460" y2="390" style="stroke:rgba(255, 0, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="150" y1="330" x2="660" y2="330" style="stroke:rgba(255, 0, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="660" y1="330" x2="660" y2="370" style="stroke:rgba(255, 0, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="460" y1="430" x2="710" y2="430" style="stroke:rgba(0, 0, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="30" x2="540" y2="290" style="stroke:rgba(34, 139, 34, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="560" y1="550" x2="561" y2="550" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="589" y1="550" x2="590" y2="550" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="564" cy="550" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="586" cy="550" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="563" y1="542" x2="587" y2="542" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="569" y1="536" x2="581" y2="536" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="575" y1="536" x2="575" y2="542" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="150" y1="590" x2="710" y2="590" style="stroke:rgba(34, 139, 34, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="560" y1="530" x2="561" y2="530" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="589" y1="530" x2="590" y2="530" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="564" cy="530" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="586" cy="530" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="563" y1="522" x2="587" y2="522" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="569" y1="516" x2="581" y2="516" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="575" y1="516" x2="575" y2="522" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="920" y1="330" x2="920" y2="350" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="840" y1="330" x2="920" y2="330" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="610" y1="390" x2="710" y2="390" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="560" y1="570" x2="561" y2="570" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="589" y1="570" x2="590" y2="570" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="564" cy="570" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="586" cy="570" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="563" y1="562" x2="587" y2="562" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="569" y1="556" x2="581" y2="556" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="575" y1="556" x2="575" y2="562" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="660" y1="370" x2="710" y2="370" style="stroke:rgba(255, 0, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="410" x2="540" y2="590" style="stroke:rgba(34, 139, 34, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="510" x2="560" y2="510" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="290" x2="710" y2="290" style="stroke:rgba(34, 139, 34, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="560" y1="510" x2="561" y2="510" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="589" y1="510" x2="590" y2="510" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<ellipse cx="564" cy="510" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="586" cy="510" rx="3" ry="3" style="fill-opacity:0;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="563" y1="502" x2="587" y2="502" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="569" y1="496" x2="581" y2="496" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="575" y1="496" x2="575" y2="502" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="840" y1="140" x2="880" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="680" y1="270" x2="710" y2="270" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="680" y1="160" x2="680" y2="270" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="680" y1="160" x2="920" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="840" y1="100" x2="860" y2="100" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="840" y1="120" x2="850" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="840" y1="140" x2="840" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="30" x2="870" y2="30" style="stroke:rgba(34, 139, 34, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="870" y1="30" x2="870" y2="51" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="870" y1="59" x2="870" y2="80" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="856" y1="51" x2="884" y2="51" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="856" y1="59" x2="884" y2="59" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="850" y="55" style="font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">470 µF</text>
+	<line x1="1020" y1="80" x2="1020" y2="170" style="stroke:rgba(255, 0, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="970" y1="80" x2="970" y2="160" style="stroke:rgba(255, 0, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="930" y1="80" x2="930" y2="140" style="stroke:rgba(255, 0, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="680" y1="80" x2="720" y2="80" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="140" x2="720" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="970" y1="170" x2="975" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="1015" y1="170" x2="1020" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="975" y="162" width="40" height="16" style="fill-opacity:0;stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="995" y="153" style="font-family:Arial;font-size:11px;text-anchor:middle" dy=".3em">330 Ω</text>
+	<line x1="920" y1="160" x2="925" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="965" y1="160" x2="970" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="925" y="152" width="40" height="16" style="fill-opacity:0;stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="945" y="143" style="font-family:Arial;font-size:11px;text-anchor:middle" dy=".3em">330 Ω</text>
+	<line x1="880" y1="140" x2="885" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="925" y1="140" x2="930" y2="140" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="885" y="132" width="40" height="16" style="fill-opacity:0;stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="905" y="123" style="font-family:Arial;font-size:11px;text-anchor:middle" dy=".3em">330 Ω</text>
+	<line x1="840" y1="80" x2="1020" y2="80" style="stroke:rgba(255, 0, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="850" y1="120" x2="850" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="870" y1="80" x2="870" y2="190" style="stroke:rgba(255, 0, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="190" x2="870" y2="190" style="stroke:rgba(255, 0, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="190" x2="710" y2="210" style="stroke:rgba(255, 0, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="700" y1="180" x2="700" y2="190" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="690" y1="170" x2="690" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="690" y1="250" x2="710" y2="250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="690" y1="180" x2="690" y2="250" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="700" y1="180" x2="840" y2="180" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="860" y1="100" x2="860" y2="160" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="700" y1="230" x2="710" y2="230" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="700" y1="190" x2="700" y2="230" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="690" y1="170" x2="970" y2="170" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="680" y1="70" x2="680" y2="80" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="680" y1="100" x2="720" y2="100" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="680" y1="100" x2="680" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="610" y1="120" x2="680" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="630" y1="110" x2="630" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="630" y1="70" x2="630" y2="80" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="610" y1="70" x2="680" y2="70" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="540" y1="120" x2="571" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="579" y1="120" x2="610" y2="120" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="571" y1="106" x2="571" y2="134" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="579" y1="106" x2="579" y2="134" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="575" y="102" style="font-family:Arial;font-size:11px;text-anchor:middle" dy="-0.3em">470 µF</text>
+	<line x1="540" y1="70" x2="571" y2="70" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="579" y1="70" x2="610" y2="70" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="571" y1="56" x2="571" y2="84" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="579" y1="56" x2="579" y2="84" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<text x="575" y="52" style="font-family:Arial;font-size:11px;text-anchor:middle" dy="-0.3em">470 µF</text>
+	<line x1="630" y1="80" x2="630" y2="87" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="630" y1="103" x2="630" y2="110" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="620" y1="87" x2="640" y2="87" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="620" y1="103" x2="640" y2="103" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="616" y="91" width="28" height="8" style="fill-opacity:0;stroke:rgb(0, 0, 0);stroke-width:2" />
+	<line x1="840" y1="350" x2="845" y2="350" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<line x1="885" y1="350" x2="890" y2="350" style="stroke:rgb(0, 0, 0);stroke-linecap:square;stroke-width:2" />
+	<rect x="845" y="342" width="40" height="16" style="fill-opacity:0;stroke:rgb(0, 0, 0);stroke-width:2" />
+	<text x="865" y="333" style="font-family:Arial;font-size:11px;text-anchor:middle" dy=".3em">330 Ω</text>
+	<line x1="890" y1="350" x2="920" y2="350" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<path d="M 912,350 M 912,342 L 912,358 M 912,350 L 897,358 L 897,342 L 912,350" style="fill-opacity:0;fill:rgba(255, 165, 0, 255);stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<path d="M 910,350 M 908,339 L 916,331 M 917,330 L 913,332 L 915,334 L 917,330 L 913,332" style="fill-opacity:0;fill:rgba(255, 165, 0, 255);stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<path d="M 910,350 M 914,346 L 922,338 M 923,337 L 919,339 L 921,341 L 923,337 L 919,339" style="fill-opacity:0;fill:rgba(255, 165, 0, 255);stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<path d="M 770,205 c -0.41874,0.0206 -0.96823,0.52856 -0.96823,0.52856 c 0,0 -0.65933,-0.37892 -1.01628,-0.36519 c -0.35696,0.0137 -0.98025,0.5694 -0.98025,0.5694 c 0,0 -0.31061,-0.19873 -0.8529,-0.13694 c -0.54229,0.0618 -0.67752,0.52135 -0.67752,0.52135 c 0,0 -1.23045,-0.11566 -1.52562,0.0697000000000001 c -0.29518,0.18535 -0.81687,0.73519 -0.81687,0.73519 c 0,0 -1.02246,-0.26772 -1.43433,0.1922 c -0.41187,0.45992 -0.0960999999999999,1.64576 -0.0960999999999999,1.64576 c 0,0 -0.47913,0.5718 -0.45167,0.95621 c 0.0274000000000001,0.38441 0.466100000000001,1.01387 0.466100000000001,1.01387 c 0,0 -0.35833,0.43967 -0.22104,0.82409 c 0.137280000000001,0.38441 0.76882,1.04511 0.76882,1.04511 c 0,0 -0.16338,0.741009999999999 0.0288000000000004,1.09797 c 0.19221,0.35694 0.79525,0.63186 0.79525,0.63186 c 0,0 -0.21829,0.41015 0.0288000000000004,0.87693 c 0.24712,0.46679 1.29017,1.15323 1.29017,1.15323 c 0,0 0.12974,0.584849999999999 0.36999,0.845700000000001 c 0.24026,0.26085 1.16044,0.45168 1.16044,0.45168 c 0,0 0.24128,0.775679999999999 0.50213,0.91297 c 0.26085,0.13729 1.2205,0.47331 1.2205,0.47331 c 0,0 -2.48527,1.18892 -3.22663,2.67163 c -0.74136,1.48273 -1.20848,5.02375 -1.20848,5.02375 c 0,0 -3.56917,2.80034 -3.59663,5.71087 c -0.0274000000000001,2.91052 1.86678,5.90548 1.86678,5.90548 c 0,0 0.85222,4.7756 1.89562,6.20339 c 1.04339,1.42781 3.76068,3.81801 4.44713,3.87293 c 0.68644,0.0549000000000035 1.01593,0.932870000000001 1.72983,1.23491 c 0.71391,0.302039999999998 3.02242,1.34543 3.02242,1.34543 c 0,0 3.34298,2.57193 5.94392,2.68846 L 778.46415,253.70181 c 0.00900000000000034,-0.000279999999996505 0.0175999999999998,-0.00200000000000244 0.0265000000000004,-0.00200000000000244 c 0.00999999999999979,0.000340000000001339 0.0192999999999994,0.00200000000000244 0.0288000000000004,0.00200000000000244 L 778.51945,253.69981 c 2.60087,-0.116860000000003 5.94392,-2.68846 5.94392,-2.68846 c 0,0 2.30611,-1.04339 3.02001,-1.34543 c 0.713909999999998,-0.302039999999998 1.0434,-1.18 1.72985,-1.23491 c 0.686440000000001,-0.0549000000000035 3.40373,-2.44512 4.44712,-3.87293 c 1.0434,-1.42779 1.89562,-6.20339 1.89562,-6.20339 c 0,0 1.89424,-2.99496 1.86679,-5.90548 c -0.0274999999999999,-2.91053 -3.59663,-5.71087 -3.59663,-5.71087 c 0,0 -0.467120000000001,-3.54102 -1.20849,-5.02375 c -0.74136,-1.48271 -3.22662,-2.67163 -3.22662,-2.67163 c 0,0 0.962039999999998,-0.33602 1.2229,-0.47331 c 0.260840000000002,-0.13729 0.49973,-0.91297 0.49973,-0.91297 c 0,0 0.920179999999998,-0.19083 1.16043,-0.45168 c 0.240259999999999,-0.26085 0.372399999999999,-0.845700000000001 0.372399999999999,-0.845700000000001 c 0,0 1.04305,-0.686439999999999 1.29016,-1.15323 c 0.247119999999999,-0.46678 0.0264999999999986,-0.87693 0.0264999999999986,-0.87693 c 0,0 0.605450000000001,-0.27492 0.797650000000001,-0.63186 c 0.192209999999999,-0.356960000000001 0.0264999999999986,-1.09797 0.0264999999999986,-1.09797 c 0,0 0.631530000000001,-0.6607 0.768830000000001,-1.04511 c 0.13729,-0.38442 -0.218640000000001,-0.82409 -0.218640000000001,-0.82409 c 0,0 0.438639999999999,-0.62946 0.466100000000001,-1.01387 c 0.0274000000000001,-0.38441 -0.454090000000001,-0.95621 -0.454090000000001,-0.95621 c 0,0 0.315770000000001,-1.18584 -0.0960999999999999,-1.64576 c -0.411860000000001,-0.45992 -1.43432,-0.1922 -1.43432,-0.1922 c 0,0 -0.521699999999999,-0.54984 -0.816870000000002,-0.73519 c -0.295169999999999,-0.18533 -1.52322,-0.0697000000000001 -1.52322,-0.0697000000000001 c 0,0 -0.137630000000001,-0.45957 -0.679919999999999,-0.52135 c -0.542300000000001,-0.0618 -0.85051,0.13694 -0.85051,0.13694 c 0,0 -0.625689999999999,-0.55567 -0.98264,-0.5694 c -0.356960000000001,-0.0137 -1.01628,0.36519 -1.01628,0.36519 c 0,0 -0.549510000000001,-0.50797 -0.968229999999998,-0.52856 c -0.41873,-0.0206 -1.06193,0.65108 -1.06193,0.65108 c 0,0 -0.23545,-0.28898 -0.76402,-0.25467 c -0.528560000000001,0.0344 -1.00907,0.49493 -1.00907,0.49493 c 0,0 -0.54881,-0.12939 -1.19406,-0.0745 c -0.64526,0.0548999999999999 -1.05542,0.87694 -1.16524,0.87694 c -0.658989999999999,-0.10983 -1.15323,0.53748 -1.82595,1.10037 c -0.58562,0.49001 -1.29382,2.39083 -1.46796,2.87586 c -0.173780000000001,-0.48409 -0.8845,-2.38565 -1.47037,-2.87586 c -0.67271,-0.56289 -1.16695,-1.2102 -1.82593,-1.10037 c -0.10984,0 -0.52239,-0.82202 -1.16765,-0.87694 c -0.64525,-0.0548999999999999 -1.19406,0.0745 -1.19406,0.0745 c 0,0 -0.48051,-0.4606 -1.00908,-0.49493 c -0.52856,-0.0343 -0.76161,0.25467 -0.76161,0.25467 c 0,0 -0.6456,-0.67168 -1.06433,-0.65108 Z M 767.96037,206.36224 c 0.38831,-0.0388999999999999 2.17672,0.93219 2.17672,0.93219 c 0,0 -0.44721,-0.9516 -0.17539,-0.93219 c 0.27182,0.0194000000000001 1.72743,1.18447 1.72743,1.18447 c 0,0 -0.15429,-1.06792 0.13695,-0.95142 c 0.29123,0.11649 1.45595,1.37907 1.45595,1.37907 c 0,0 0.0971000000000002,-0.95181 0.23305,-0.91297 c 0.1359,0.0388000000000002 1.45594,1.65055 1.45594,1.65055 c 0,0 -0.2539,-1.04843 0.38681,-0.71836 c 0.64072,0.33006 1.92347,2.56258 2.02055,4.3294 c 0.0971000000000002,1.76682 -1.55445,2.4458 -1.55445,2.4458 c 0,0 -4.81498,-3.56049 -9.10568,-4.94926 c 2.35419,0.85621 8.13648,5.24217 8.23355,5.97996 c 0.0971000000000002,0.73779 -1.496,1.86392 -2.29203,2.38814 c -0.79604,0.52422 -3.92097,0.44688 -3.92097,0.44688 c 0,0 1.84466,-0.64188 0.69914,-0.60305 c -1.14552,0.0388999999999999 -2.4482,-0.50454 -2.4482,-0.50454 c 0,0 0.66109,-0.11636 0.62226,-0.25226 c -0.0388999999999999,-0.135910000000001 -2.36892,-1.08836 -2.36892,-1.08836 c 0,0 1.0481,0.0592000000000006 0.98985,-0.0960999999999999 c -0.0583,-0.15532 -2.17431,-1.47517 -2.17431,-1.47517 c 0,0 0.93116,0.0954999999999995 0.79524,-0.0792999999999999 c -0.13591,-0.17473 -1.55204,-1.4151 -1.55204,-1.4151 c 0,0 0.73797,0.13429 0.69914,-0.0792999999999999 c -0.0388999999999999,-0.21357 -1.3214,-1.59049 -1.3214,-1.59049 c 0,0 1.06913,0.15494 1.06913,0.0385 c 0,-0.11648 -1.3214,-1.66977 -1.3214,-1.66977 c 0,0 0.87413,0.33026 0.91297,-0.0191999999999997 c 0.0388999999999999,-0.34947 -0.73759,-1.78749 -0.73759,-1.78749 L 764.71932,207.97437 c 0,0 -0.75655,-0.46694 -0.54297,-0.62226 c 0.21357,-0.15533 2.58034,0.1946 2.58034,0.1946 c 0,0 -0.63999,-0.71738 -0.30994,-0.81446 c 0.33007,-0.0971 2.02056,0.60064 2.02056,0.60064 c 0,0 -0.89525,-0.93181 -0.50694,-0.97064 Z M 786.9838,206.36225 c 0.271809999999999,-0.0194000000000001 -0.17539,0.93219 -0.17539,0.93219 c 0,0 1.786,-0.97102 2.17432,-0.93219 c 0.388310000000001,0.0388999999999999 -0.504539999999999,0.97063 -0.504539999999999,0.97063 c 0,0 1.68807,-0.69771 2.01814,-0.60064 c 0.330069999999999,0.0971 -0.309930000000001,0.81448 -0.309930000000001,0.81448 c 0,0 2.36917,-0.34994 2.58274,-0.19462 c 0.21358,0.15533 -0.545369999999998,0.62227 -0.545369999999998,0.62227 L 794.34042,208.01287 c 0,0 -0.776420000000002,1.43801 -0.737580000000001,1.78749 c 0.0387999999999984,0.34949 0.912970000000001,0.0191999999999997 0.912970000000001,0.0191999999999997 c 0,0 -1.31901,1.55328 -1.31901,1.66978 c 0,0.11649 1.06674,-0.0385 1.06674,-0.0385 c 0,0 -1.28258,1.37692 -1.3214,1.59049 c -0.0389000000000017,0.213570000000001 0.69914,0.0792999999999999 0.69914,0.0792999999999999 c 0,0 -1.41614,1.24036 -1.55206,1.41511 c -0.135899999999999,0.17474 0.795249999999999,0.0792999999999999 0.795249999999999,0.0792999999999999 c 0,0 -2.11606,1.31984 -2.17431,1.47517 c -0.0582999999999991,0.15532 0.989850000000001,0.0960999999999999 0.989850000000001,0.0960999999999999 c 0,0 -2.33009,0.952450000000001 -2.36892,1.08835 c -0.0389000000000017,0.13592 0.622260000000001,0.252280000000001 0.622260000000001,0.252280000000001 c 0,0 -1.30028,0.54336 -2.44579,0.504530000000001 c -1.14553,-0.0388999999999999 0.69914,0.60304 0.69914,0.60304 c 0,0 -3.12734,0.0772999999999993 -3.92337,-0.446870000000001 c -0.79604,-0.52422 -2.38672,-1.65035 -2.28964,-2.38814 c 0.0970999999999993,-0.73779 5.87697,-5.12375 8.23116,-5.97996 c -4.2907,1.38878 -9.10569,4.94927 -9.10569,4.94927 c 0,0 -1.65153,-0.678990000000001 -1.55445,-2.44581 c 0.0970999999999993,-1.76681 1.37983,-3.99934 2.02055,-4.3294 c 0.64071,-0.33007 0.38921,0.71836 0.38921,0.71836 c 0,0 1.32004,-1.61172 1.45595,-1.65056 c 0.135910000000001,-0.0388000000000002 0.23305,0.91298 0.23305,0.91298 c 0,0 1.16471,-1.26257 1.45594,-1.37906 c 0.29124,-0.1165 0.134539999999999,0.9514 0.134539999999999,0.9514 c 0,0 1.45803,-1.16504 1.72985,-1.18446 Z M 778.44992,218.5288 c 2.75994,0 4.99732,1.42671 4.99732,3.18579 c 0,1.75908 -2.23738,3.18578 -4.99732,3.18578 c -2.75994,0 -4.99731,-1.4267 -4.99731,-3.18578 c 0,-1.75908 2.23737,-3.18579 4.99731,-3.18579 Z M 771.15817,219.79735 c 0.5561,-0.000679999999999126 0.97621,0.0808999999999997 1.12679,0.254670000000001 c 0.53543,0.617800000000001 -3.13052,3.58461 -3.13052,3.58461 c 0,0 -3.95392,3.17069 -4.5168,2.77255 c -0.56289,-0.398140000000001 0.57866,-3.65223 1.86918,-5.05257 c 0.92756,-1.0065 3.2302,-1.55744 4.65135,-1.55926 Z M 785.39811,219.79735 c 1.42114,0.00200000000000067 3.72379,0.552759999999999 4.65134,1.55926 c 1.29052,1.40034 2.43208,4.65443 1.8692,5.05257 c -0.562889999999999,0.398140000000001 -4.51681,-2.77255 -4.51681,-2.77255 c 0,0 -3.66595,-2.96681 -3.13053,-3.58461 c 0.150589999999999,-0.17376 0.5707,-0.255380000000001 1.1268,-0.254670000000001 Z M 784.01423,224.62889 c 0.0404,9.99999999997669E-05 0.0820000000000007,0.00199999999999889 0.122540000000001,0.00199999999999889 c 1.94609,0.0454000000000008 3.94109,1.38247 4.9853,3.55578 c 1.39228,2.89776 0.570129999999999,6.18395 -1.83555,7.3398 c -2.40568,1.15586 -5.48383,-0.254390000000001 -6.87611,-3.15215 c -1.39228,-2.89775 -0.57254,-6.18395 1.83315,-7.3398 c 0.52624,-0.252849999999999 1.08466,-0.384969999999999 1.65055,-0.40363 c 0.0404,-0.00199999999999889 0.0797000000000008,-0.00199999999999889 0.12012,-0.00199999999999889 Z M 772.76307,225.18147 c 0.64871,-0.0151000000000003 1.2918,0.112269999999999 1.89322,0.401229999999998 c 2.40568,1.15585 3.22543,4.44205 1.83315,7.33981 c -1.39228,2.89775 -4.47043,4.3104 -6.87611,3.15455 c -2.40569,-1.15585 -3.22784,-4.44205 -1.83555,-7.33981 c 1.0442,-2.17331 3.03921,-3.51042 4.98529,-3.55578 Z M 764.02018,228.37446 c 1.20312,0.0128999999999984 1.04889,3.0667 0.92018,4.81713 c -0.13729,1.86713 -1.56372,4.22918 -2.27762,4.33902 c -0.71391,0.109830000000002 -1.6485,-2.22374 -1.70341,-4.94206 c -0.0548999999999999,-2.71831 2.80137,-4.17564 2.80137,-4.17564 c 0.0926999999999998,-0.0274000000000001 0.17927,-0.0393000000000008 0.25948,-0.0384999999999991 Z M 792.56493,228.37441 c 0.0802000000000014,-0.000820000000000931 0.166810000000002,0.0109999999999992 0.25948,0.0384999999999991 c 0,0 2.85629,1.45733 2.80137,4.17565 c -0.0548999999999999,2.71832 -0.989509999999999,5.05188 -1.7034,4.94206 c -0.713899999999999,-0.109839999999998 -2.14274,-2.47189 -2.28003,-4.33902 c -0.128710000000002,-1.75044 -0.280539999999998,-4.80425 0.92258,-4.81713 Z M 778.39466,235.11364 c 3.03291,0 5.49225,2.45935 5.49225,5.49224 c 0,3.03291 -2.45934,5.48985 -5.49225,5.48985 c -3.0329,0 -5.49224,-2.45694 -5.49224,-5.48985 c 0,-3.03289 2.45934,-5.49224 5.49224,-5.49224 Z M 790.36659,237.88379 c 0.998860000000001,-0.0183999999999997 1.67699,0.475709999999999 1.67699,0.475709999999999 c 0.906099999999999,0.686439999999997 0.576260000000001,3.40304 -0.055299999999999,5.10542 c -0.631519999999998,1.70239 -2.38916,2.55392 -2.93832,3.13054 c -0.549160000000001,0.576610000000002 -3.51494,0.715269999999997 -4.09155,0.0287999999999968 c -0.576610000000001,-0.686450000000001 -0.300660000000001,-2.8841 0.0288000000000004,-3.81766 c 0.32949,-0.933570000000003 0.85188,-1.83967 2.99359,-3.84409 c 0.870069999999998,-0.814300000000003 1.70231,-1.06612 2.38573,-1.07875 Z M 766.12236,237.96066 c 0.68342,0.0127000000000024 1.51806,0.264449999999997 2.38813,1.07874 c 2.14171,2.00442 2.66409,2.91053 2.99358,3.84409 c 0.3295,0.93356 0.60305,3.13122 0.0265,3.81766 c -0.57662,0.686439999999997 -3.54239,0.547780000000003 -4.09155,-0.0287999999999968 c -0.54916,-0.576619999999998 -2.3068,-1.42575 -2.93833,-3.12813 c -0.63153,-1.70239 -0.96136,-4.42139 -0.0552000000000001,-5.10783 c 0,0 0.67813,-0.494160000000001 1.67698,-0.475709999999999 Z M 778.28419,247.05675 c 0,0 5.4109,0.274569999999997 5.27361,1.72984 c -0.13729,1.45526 -3.37696,3.37902 -4.74985,3.35157 c -1.37288,-0.0274000000000001 -5.68445,-1.09866 -5.68445,-2.93833 c 0,-1.83967 5.16069,-2.14308 5.16069,-2.14308" style="fill-opacity:0;fill:rgba(255, 165, 0, 255);stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:1" />
+	<rect x="715" y="200" width="120" height="400" style="fill-opacity:0;stroke:rgba(255, 165, 0, 255);stroke-width:2" />
+	<line x1="710" y1="210" x2="715" y2="210" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="230" x2="715" y2="230" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="250" x2="715" y2="250" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="270" x2="715" y2="270" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="290" x2="715" y2="290" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="310" x2="715" y2="310" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="330" x2="715" y2="330" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="350" x2="715" y2="350" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="370" x2="715" y2="370" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="390" x2="715" y2="390" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="410" x2="715" y2="410" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="430" x2="715" y2="430" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="450" x2="715" y2="450" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="390" x2="715" y2="390" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="410" x2="715" y2="410" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="430" x2="715" y2="430" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="450" x2="715" y2="450" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="470" x2="715" y2="470" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="490" x2="715" y2="490" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="510" x2="715" y2="510" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="530" x2="715" y2="530" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="550" x2="715" y2="550" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="570" x2="715" y2="570" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="710" y1="590" x2="715" y2="590" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="210" x2="840" y2="210" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="230" x2="840" y2="230" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="250" x2="840" y2="250" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="270" x2="840" y2="270" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="290" x2="840" y2="290" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="310" x2="840" y2="310" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="330" x2="840" y2="330" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="350" x2="840" y2="350" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="370" x2="840" y2="370" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="390" x2="840" y2="390" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="410" x2="840" y2="410" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="430" x2="840" y2="430" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="450" x2="840" y2="450" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="470" x2="840" y2="470" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="490" x2="840" y2="490" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="510" x2="840" y2="510" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="530" x2="840" y2="530" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="550" x2="840" y2="550" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="570" x2="840" y2="570" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="835" y1="590" x2="840" y2="590" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="717" y="210" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">3V3</text>
+	<text x="717" y="230" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO2</text>
+	<text x="717" y="250" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO3</text>
+	<text x="717" y="270" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO4</text>
+	<text x="717" y="290" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GND</text>
+	<text x="717" y="310" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO17</text>
+	<text x="717" y="330" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO27</text>
+	<text x="717" y="350" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO22</text>
+	<text x="717" y="370" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">3V3</text>
+	<text x="717" y="390" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO10</text>
+	<text x="717" y="410" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO9</text>
+	<text x="717" y="430" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO11</text>
+	<text x="717" y="450" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GND</text>
+	<text x="717" y="470" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">ID_SD</text>
+	<text x="717" y="490" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO5</text>
+	<text x="717" y="510" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO6</text>
+	<text x="717" y="530" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO13</text>
+	<text x="717" y="550" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO19</text>
+	<text x="717" y="570" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GPIO26</text>
+	<text x="717" y="590" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:start" dy=".3em">GND</text>
+	<text x="833" y="210" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">5V0</text>
+	<text x="833" y="230" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">5V0</text>
+	<text x="833" y="250" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GND</text>
+	<text x="833" y="270" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GPIO14</text>
+	<text x="833" y="290" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GPIO15</text>
+	<text x="833" y="310" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GPIO18</text>
+	<text x="833" y="330" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GND</text>
+	<text x="833" y="350" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GPIO23</text>
+	<text x="833" y="370" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GPIO24</text>
+	<text x="833" y="390" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GND</text>
+	<text x="833" y="410" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GPIO25</text>
+	<text x="833" y="430" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GPIO8</text>
+	<text x="833" y="450" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GPIO7</text>
+	<text x="833" y="470" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">ID_SC</text>
+	<text x="833" y="490" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GND</text>
+	<text x="833" y="510" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GPIO12</text>
+	<text x="833" y="530" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GND</text>
+	<text x="833" y="550" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GPIO16</text>
+	<text x="833" y="570" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GPIO20</text>
+	<text x="833" y="590" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:11px;text-anchor:end" dy=".3em">GPIO21</text>
+	<rect x="350" y="360" width="100" height="160" style="fill-opacity:0;stroke:rgba(255, 165, 0, 255);stroke-width:2" />
+	<line x1="340" y1="370" x2="350" y2="370" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="340" y1="390" x2="350" y2="390" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="370" x2="460" y2="370" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="390" x2="460" y2="390" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="354" y="370" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em">CH0</text>
+	<text x="354" y="390" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em">CH1</text>
+	<text x="446" y="370" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">Vdd</text>
+	<text x="446" y="390" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">Vref</text>
+	<line x1="340" y1="410" x2="350" y2="410" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="410" x2="460" y2="410" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="354" y="410" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em">CH2</text>
+	<text x="446" y="410" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">AGND</text>
+	<line x1="340" y1="430" x2="350" y2="430" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="430" x2="460" y2="430" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="354" y="430" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em">CH3</text>
+	<text x="446" y="430" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">CLK</text>
+	<line x1="340" y1="450" x2="350" y2="450" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="450" x2="460" y2="450" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="354" y="450" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em">CH4</text>
+	<text x="446" y="450" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">Dout</text>
+	<line x1="340" y1="470" x2="350" y2="470" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="470" x2="460" y2="470" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="354" y="470" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em">CH5</text>
+	<text x="446" y="470" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">Din</text>
+	<line x1="340" y1="490" x2="350" y2="490" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="490" x2="460" y2="490" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="354" y="490" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em">CH6</text>
+	<text x="446" y="490" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">!CS/SHDN</text>
+	<line x1="340" y1="510" x2="350" y2="510" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<line x1="450" y1="510" x2="460" y2="510" style="stroke:rgba(255, 165, 0, 255);stroke-linecap:square;stroke-width:2" />
+	<text x="354" y="510" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:start" dy=".3em">CH7</text>
+	<text x="446" y="510" style="fill: rgba(255, 165, 0, 255);font-family:Arial;font-size:12px;text-anchor:end" dy=".3em">DGND</text>
+	<ellipse cx="840" cy="140" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="200" cy="390" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="200" cy="590" rx="2" ry="2" style="fill-opacity:1;fill:rgba(34, 139, 34, 255);stroke:rgba(34, 139, 34, 255);stroke-width:2" />
+	<ellipse cx="540" cy="570" rx="2" ry="2" style="fill-opacity:1;fill:rgba(34, 139, 34, 255);stroke:rgba(34, 139, 34, 255);stroke-width:2" />
+	<ellipse cx="540" cy="550" rx="2" ry="2" style="fill-opacity:1;fill:rgba(34, 139, 34, 255);stroke:rgba(34, 139, 34, 255);stroke-width:2" />
+	<ellipse cx="540" cy="530" rx="2" ry="2" style="fill-opacity:1;fill:rgba(34, 139, 34, 255);stroke:rgba(34, 139, 34, 255);stroke-width:2" />
+	<ellipse cx="260" cy="590" rx="2" ry="2" style="fill-opacity:1;fill:rgba(34, 139, 34, 255);stroke:rgba(34, 139, 34, 255);stroke-width:2" />
+	<ellipse cx="200" cy="330" rx="2" ry="2" style="fill-opacity:1;fill:rgba(255, 0, 0, 255);stroke:rgba(255, 0, 0, 255);stroke-width:2" />
+	<ellipse cx="260" cy="330" rx="2" ry="2" style="fill-opacity:1;fill:rgba(255, 0, 0, 255);stroke:rgba(255, 0, 0, 255);stroke-width:2" />
+	<ellipse cx="540" cy="510" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="460" cy="330" rx="2" ry="2" style="fill-opacity:1;fill:rgba(255, 0, 0, 255);stroke:rgba(255, 0, 0, 255);stroke-width:2" />
+	<ellipse cx="460" cy="370" rx="2" ry="2" style="fill-opacity:1;fill:rgba(255, 165, 0, 255);stroke:rgba(255, 165, 0, 255);stroke-width:2" />
+	<ellipse cx="540" cy="70" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="540" cy="120" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="540" cy="140" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="540" cy="590" rx="2" ry="2" style="fill-opacity:1;fill:rgba(34, 139, 34, 255);stroke:rgba(34, 139, 34, 255);stroke-width:2" />
+	<ellipse cx="860" cy="160" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="870" cy="80" rx="2" ry="2" style="fill-opacity:1;fill:rgba(255, 0, 0, 255);stroke:rgba(255, 0, 0, 255);stroke-width:2" />
+	<ellipse cx="970" cy="80" rx="2" ry="2" style="fill-opacity:1;fill:rgba(255, 0, 0, 255);stroke:rgba(255, 0, 0, 255);stroke-width:2" />
+	<ellipse cx="930" cy="80" rx="2" ry="2" style="fill-opacity:1;fill:rgba(255, 0, 0, 255);stroke:rgba(255, 0, 0, 255);stroke-width:2" />
+	<ellipse cx="850" cy="170" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="630" cy="120" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+	<ellipse cx="630" cy="70" rx="2" ry="2" style="fill-opacity:1;fill:rgb(0, 0, 0);stroke:rgb(0, 0, 0);stroke-width:2" />
+</svg>
