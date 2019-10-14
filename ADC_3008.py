@@ -25,4 +25,11 @@ def Temp(data):
   return temp
   #temp_degrees = Temp(analogInput(1))
 
-print(Temp(analogInput(1)))
+def readings():
+  readings=[]
+  readings.append(Volts(analogInput(0)))
+  readings.append(Temp(analogInput(1)))
+  readings.append(analogInput(2))
+  return readings
+  #0 - Humidpot, 1-Temp, 2-Light
+
